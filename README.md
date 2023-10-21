@@ -1,2 +1,2 @@
 # gerenciador_financeiro_pessoall
-Gerenciado financeiro Pessoal
+Gerenciador financeiro Pessoal
