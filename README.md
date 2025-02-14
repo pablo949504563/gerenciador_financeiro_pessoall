@@ -15,3 +15,10 @@ Terceira Fase
 - informações de cotação de dolar e euro.
 - informações com os ativos de sua caiteira atualizados (valor atual)
 - evolução ou regressão do patrimônio líquido e bruto 
+
+
+# Informações técnicas sobre a aplicação 
+- Java 17
+- maven 3.8.1
+- Front-end (bootstrap ethymeleaf)
+- spring boot 
