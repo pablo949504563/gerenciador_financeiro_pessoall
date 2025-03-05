@@ -1,4 +1,4 @@
-# gerenciador_financeiro_pessoal
+# Gerenciador Financeiro Pessoal
 Primeira fase 
  - registrar os gastos
  - relatório de gastos
@@ -20,5 +20,5 @@ Terceira Fase
 # Informações técnicas sobre a aplicação 
 - Java 17
 - maven 3.8.1
-- Front-end (bootstrap ethymeleaf)
+- Front-end (bootstrap e thymeleaf)
 - spring boot 
