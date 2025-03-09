@@ -21,4 +21,5 @@ Terceira Fase
 - Java 17
 - maven 3.8.1
 - Front-end (bootstrap e thymeleaf)
-- spring boot 
+- spring boot
+- Banco de dados mysql
